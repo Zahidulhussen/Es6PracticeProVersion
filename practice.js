@@ -1,6 +1,6 @@
-// const hubby = "Piya";
+const hubby = "Piya";
 // hubby = "Shela";
-// console.log(hubby);
+console.log(hubby);
 
 
 let numbers = [12, 45];
